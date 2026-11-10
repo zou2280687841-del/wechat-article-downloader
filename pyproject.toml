@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "wechat-official-account-backup"
+version = "1.2.0"
+description = "Windows desktop backup tool for your WeChat Official Account articles"
+readme = "README.md"
+requires-python = ">=3.11,<3.13"
+license = "MIT"
+dependencies = [
+  "playwright==1.65.0",
+  "PySide6==6.8.3",
+  "openpyxl==3.1.5",
+  "beautifulsoup4==4.15.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.setuptools.packages.find]
+include = ["wxbackup*"]

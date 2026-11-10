@@ -1,0 +1,27 @@
+# License text sources
+
+- `PySide6\PySide6-6.8.3.dist-info_LicenseRef-Qt-Commercial.txt` — PySide6 6.8.3: PySide6-6.8.3.dist-info/LicenseRef-Qt-Commercial.txt
+- `PySide6-Essentials\PySide6_Essentials-6.8.3.dist-info_LicenseRef-Qt-Commercial.txt` — PySide6_Essentials 6.8.3: PySide6_Essentials-6.8.3.dist-info/LicenseRef-Qt-Commercial.txt
+- `PySide6-Addons\PySide6_Addons-6.8.3.dist-info_LicenseRef-Qt-Commercial.txt` — PySide6_Addons 6.8.3: PySide6_Addons-6.8.3.dist-info/LicenseRef-Qt-Commercial.txt
+- `shiboken6\shiboken6-6.8.3.dist-info_LicenseRef-Qt-Commercial.txt` — shiboken6 6.8.3: shiboken6-6.8.3.dist-info/LicenseRef-Qt-Commercial.txt
+- `playwright\playwright-1.65.0.dist-info_licenses_LICENSE.txt` — playwright 1.65.0: playwright-1.65.0.dist-info/licenses/LICENSE
+- `playwright\playwright_driver_LICENSE.txt` — playwright 1.65.0: playwright/driver/LICENSE
+- `playwright\playwright_driver_package_LICENSE.txt` — playwright 1.65.0: playwright/driver/package/LICENSE
+- `playwright\playwright_driver_package_NOTICE.txt` — playwright 1.65.0: playwright/driver/package/NOTICE
+- `playwright\playwright_driver_package_ThirdPartyNotices.txt` — playwright 1.65.0: playwright/driver/package/ThirdPartyNotices.txt
+- `playwright\playwright_driver_package_lib_serverRegistry.js.LICENSE.txt` — playwright 1.65.0: playwright/driver/package/lib/serverRegistry.js.LICENSE
+- `playwright\playwright_driver_package_lib_utilsBundle.js.LICENSE.txt` — playwright 1.65.0: playwright/driver/package/lib/utilsBundle.js.LICENSE
+- `playwright\playwright_driver_package_lib_webp_codec.LICENSE.txt` — playwright 1.65.0: playwright/driver/package/lib/webp_codec.LICENSE
+- `greenlet\greenlet-3.5.6.dist-info_licenses_LICENSE.txt` — greenlet 3.5.6: greenlet-3.5.6.dist-info/licenses/LICENSE
+- `greenlet\greenlet-3.5.6.dist-info_licenses_LICENSE.PSF.txt` — greenlet 3.5.6: greenlet-3.5.6.dist-info/licenses/LICENSE.PSF
+- `openpyxl\openpyxl-3.1.5.dist-info_LICENCE.rst` — openpyxl 3.1.5: openpyxl-3.1.5.dist-info/LICENCE.rst
+- `et-xmlfile\et_xmlfile-2.0.0.dist-info_LICENCE.python.txt` — et_xmlfile 2.0.0: et_xmlfile-2.0.0.dist-info/LICENCE.python
+- `et-xmlfile\et_xmlfile-2.0.0.dist-info_LICENCE.rst` — et_xmlfile 2.0.0: et_xmlfile-2.0.0.dist-info/LICENCE.rst
+- `beautifulsoup4\beautifulsoup4-4.15.0.dist-info_licenses_AUTHORS.txt` — beautifulsoup4 4.15.0: beautifulsoup4-4.15.0.dist-info/licenses/AUTHORS
+- `beautifulsoup4\beautifulsoup4-4.15.0.dist-info_licenses_LICENSE.txt` — beautifulsoup4 4.15.0: beautifulsoup4-4.15.0.dist-info/licenses/LICENSE
+- `soupsieve\soupsieve-4.1.dist-info_licenses_LICENSE.md` — soupsieve 4.1: soupsieve-4.1.dist-info/licenses/LICENSE.md
+- `typing_extensions\typing_extensions-4.16.0.dist-info_licenses_LICENSE.txt` — typing_extensions 4.16.0: typing_extensions-4.16.0.dist-info/licenses/LICENSE
+- `pyinstaller\pyinstaller-6.22.3.dist-info_licenses_COPYING.txt` — pyinstaller 6.22.3: pyinstaller-6.22.3.dist-info/licenses/COPYING.txt
+- `Python-LICENSE.txt` — Python 3.12.14
+- `LGPL-3.0-only.txt` — https://raw.githubusercontent.com/pyside/pyside-setup/v6.8.3/LICENSES/LGPL-3.0-only.txt
+- `GPL-3.0-only.txt` — https://raw.githubusercontent.com/pyside/pyside-setup/v6.8.3/LICENSES/GPL-3.0-only.txt
